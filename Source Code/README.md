@@ -55,4 +55,4 @@
 - **Function Prototypes**: Declares the functions implemented in adventuregame.c.
 - **Macros**: Defines constants and macros used throughout the game.
 
-For a more detailed and in-depth explanation on the workings of the code, a PDF titled "Report 2" can be found and accessed in this folder.
+For a more detailed and in-depth explanation on the workings of the code, a PDF titled "Report 2 ADVENTURE GAME" can be found and accessed in this ADVENTURE-GAME section.
